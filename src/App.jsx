@@ -6,7 +6,7 @@ import Services from "./components/Services";
 import Stats from "./components/Stats";
 import Portfolio from "./components/Portfolio";
 import Testimonials from "./components/Testimonials";
-import Subscribe from "./components/suscribe";
+import Subscribe from "./components/Suscribe";
 import Footer from "./components/Footer";
 
 
