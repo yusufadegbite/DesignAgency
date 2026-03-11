@@ -1,5 +1,5 @@
 import { useState } from "react";
-import sophieMoore from '../assets/sophie.png';
+import sophieMoore from '../assets/Sophie.png';
 import right from '../assets/angle-right.png';
 import left from '../assets/angle-left.png';
 
